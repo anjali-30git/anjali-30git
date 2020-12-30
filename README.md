@@ -1,5 +1,5 @@
 ### Hi there👋
-##### I am Anjali Chauhan. My fields and expertise lie in Python, ML and Operating Systems. I have basic knowledge of PyCharm and Flask. I am always keen to learn new things and make something out of it. Few days before I explored ***[manim](https://github.com/3b1b/manim/tree/master/manimlib)*** in Python and made some beautiful Animations.
+##### I am Anjali Chauhan. My fields and expertise lie in c++ , Database Management and Data Structures. I have basic knowledge of Eclipse and Flask. I am always keen to learn new things and make something out of it. Few days before I explored ***[manim](https://github.com/3b1b/manim/tree/master/manimlib)*** in Python and made some beautiful Animations.
 
 
 
